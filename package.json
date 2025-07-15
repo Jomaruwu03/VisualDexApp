@@ -17,6 +17,7 @@
     "expo-camera": "~16.1.10",
     "expo-gl": "^15.1.7",
     "expo-gl-cpp": "^11.4.0",
+    "expo-linear-gradient": "^14.1.5",
     "expo-media-library": "~17.1.7",
     "expo-speech": "~13.1.7",
     "expo-status-bar": "~2.2.3",
